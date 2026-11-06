@@ -1,5 +1,6 @@
 from pathlib import Path
 
+#esta mierda es temporal, ha hizo gpt, pero lo dejo aqui para que el codigo no tenga errores
 class ManagerDB:
     def __init__(self, from_file):
         self.from_file = Path(from_file)

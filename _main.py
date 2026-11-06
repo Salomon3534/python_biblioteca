@@ -1,9 +1,14 @@
+from controller import Controller
+
+BOOKS_FILE = "db_books.txt"
+MEMBERS_FILE = "db_members.txt"
+LOG = "log.txt"
 
 
-DB_FILE = "_library_db.csv"
-LOG = "_log.txt"
+def main():
+    controller = Controller(LOG, BOOKS_FILE, MEMBERS_FILE)
+    controller.run()
 
-MG_DB = ManagerDB(DB_FILE)
 
-MG_BOOKS = ManagerBooks(MG_DB.get_books())
-MG_MEMBERS = ManagerMembers(MG_DB.get_members())
+if __name__ == "__main__":
+    main()

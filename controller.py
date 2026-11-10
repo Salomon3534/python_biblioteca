@@ -57,6 +57,7 @@ class Controller:
         try:
             self.library.lend_book(book_code, member_code)
             self.view.show_message("Préstamo realizado.")
+            self.save_changes()
         except LendingError as error:
             self.view.show_message(f"{error.message} (libro: {error.book_code}, socio: {error.member_code})")
 
@@ -66,6 +67,7 @@ class Controller:
         try:
             book = self.library.return_book(member_code)
             self.view.show_message(f"Libro devuelto: {book.title}")
+            self.save_changes()
         except LendingError as error:
             self.view.show_message(f"{error.message} (socio: {error.member_code})")
 
@@ -92,6 +94,7 @@ class Controller:
             self.view.show_message("El año tiene que ser un número.")
         elif self.library.add_book(title, author, year_p, category):
             self.view.show_message("Libro añadido.")
+            self.save_changes()
         else:
             self.view.show_message("No se pudo añadir el libro.")
 
@@ -101,8 +104,13 @@ class Controller:
 
         if self.library.add_member(name, email):
             self.view.show_message("Socio añadido.")
+            self.save_changes()
         else:
             self.view.show_message("No se pudo añadir el socio.")
+
+    def save_changes(self):
+        if not self.library.save():
+            self.view.show_message("Error al guardar los datos en los ficheros.")
 
     def option_exit(self):
         if self.library.save():

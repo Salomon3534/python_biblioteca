@@ -1,9 +1,11 @@
 from datetime import datetime
 
 from daos.dao_db import ManagerDB
+
 from daos.dao_books import DaoBooks
 from daos.dao_members import DaoMembers
 from models.book import Book
+
 from errors.lending_error import LendingError
 
 

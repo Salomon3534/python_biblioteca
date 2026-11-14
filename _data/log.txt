@@ -1,1 +1,5 @@
 [2026-11-10 13:13:09][NUEVO_LIBRO][Libro añadido: El libro troll]
+[2026-11-14 14:28:07][PRESTAMO][Libro 84 (El guardián entre el centeno) prestado al socio 0 (Lucía Fernández Ruiz)]
+[2026-11-14 14:28:23][DEVOLUCION][Libro 84 (El guardián entre el centeno) devuelto por el socio 0 (Lucía Fernández Ruiz)]
+[2026-11-14 14:28:42][NUEVO_SOCIO][Socio añadido: Abel]
+[2026-11-14 14:29:01][NUEVO_LIBRO][Libro añadido: 1984]

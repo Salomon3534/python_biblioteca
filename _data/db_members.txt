@@ -1,0 +1,15 @@
+0;Lucía Fernández Ruiz;lucia.fernandez@ejemplo.com;none
+1;Iker Etxeberria Goñi;iker.etxeberria@ejemplo.com;none
+2;Ane Urrutia Mendizabal;ane.urrutia@ejemplo.com;none
+3;Carlos Martín Sanz;carlos.martin@ejemplo.com;none
+4;Maialen Aranburu Lasa;maialen.aranburu@ejemplo.com;none
+5;Javier Gómez Ortega;javier.gomez@ejemplo.com;none
+6;Nerea Zubiri Arriola;nerea.zubiri@ejemplo.com;none
+7;Pablo Romero Díaz;pablo.romero@ejemplo.com;none
+8;Irene Navarro Gil;irene.navarro@ejemplo.com;none
+9;Unai Ibarra Olaizola;unai.ibarra@ejemplo.com;none
+10;Marta López Herrera;marta.lopez@ejemplo.com;none
+11;Aitor Garmendia Sorozabal;aitor.garmendia@ejemplo.com;none
+12;Sara Castillo Molina;sara.castillo@ejemplo.com;none
+13;Diego Vázquez Prieto;diego.vazquez@ejemplo.com;none
+14;Leire Mugica Echarri;leire.mugica@ejemplo.com;none

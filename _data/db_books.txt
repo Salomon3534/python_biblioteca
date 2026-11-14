@@ -1,1 +1,100 @@
-0;El libro troll;El rubius;2016;Humor;free
+0;Don Quijote de la Mancha;Miguel de Cervantes;1605;Clásicos;free
+1;Cien años de soledad;Gabriel García Márquez;1967;Novela;free
+2;La sombra del viento;Carlos Ruiz Zafón;2001;Misterio;free
+3;1984;George Orwell;1949;Ciencia ficción;free
+4;Rebelión en la granja;George Orwell;1945;Clásicos;free
+5;Fahrenheit 451;Ray Bradbury;1953;Ciencia ficción;free
+6;Un mundo feliz;Aldous Huxley;1932;Ciencia ficción;free
+7;El señor de los anillos;J. R. R. Tolkien;1954;Fantasía;free
+8;El hobbit;J. R. R. Tolkien;1937;Fantasía;free
+9;Harry Potter y la piedra filosofal;J. K. Rowling;1997;Fantasía;free
+10;El principito;Antoine de Saint-Exupéry;1943;Infantil;free
+11;Crimen y castigo;Fiódor Dostoyevski;1866;Clásicos;free
+12;Los hermanos Karamázov;Fiódor Dostoyevski;1880;Clásicos;free
+13;Guerra y paz;León Tolstói;1869;Clásicos;free
+14;Anna Karénina;León Tolstói;1877;Clásicos;free
+15;Orgullo y prejuicio;Jane Austen;1813;Clásicos;free
+16;Jane Eyre;Charlotte Brontë;1847;Clásicos;free
+17;Cumbres borrascosas;Emily Brontë;1847;Clásicos;free
+18;Grandes esperanzas;Charles Dickens;1861;Clásicos;free
+19;Oliver Twist;Charles Dickens;1838;Clásicos;free
+20;Moby Dick;Herman Melville;1851;Aventuras;free
+21;La isla del tesoro;Robert Louis Stevenson;1883;Aventuras;free
+22;Veinte mil leguas de viaje submarino;Julio Verne;1870;Aventuras;free
+23;La vuelta al mundo en ochenta días;Julio Verne;1872;Aventuras;free
+24;Viaje al centro de la Tierra;Julio Verne;1864;Aventuras;free
+25;Drácula;Bram Stoker;1897;Terror;free
+26;Frankenstein;Mary Shelley;1818;Terror;free
+27;El retrato de Dorian Gray;Oscar Wilde;1891;Clásicos;free
+28;El extraño caso del doctor Jekyll y el señor Hyde;Robert Louis Stevenson;1886;Terror;free
+29;It;Stephen King;1986;Terror;free
+30;El resplandor;Stephen King;1977;Terror;free
+31;Misery;Stephen King;1987;Terror;free
+32;Los pilares de la Tierra;Ken Follett;1989;Histórica;free
+33;El nombre de la rosa;Umberto Eco;1980;Histórica;free
+34;Memorias de Adriano;Marguerite Yourcenar;1951;Histórica;free
+35;Yo, Claudio;Robert Graves;1934;Histórica;free
+36;Sapiens;Yuval Noah Harari;2011;Ensayo;free
+37;Una breve historia del tiempo;Stephen Hawking;1988;Ensayo;free
+38;El gen egoísta;Richard Dawkins;1976;Ensayo;free
+39;Cosmos;Carl Sagan;1980;Ensayo;free
+40;Pedro Páramo;Juan Rulfo;1955;Novela;free
+41;La casa de los espíritus;Isabel Allende;1982;Novela;free
+42;Rayuela;Julio Cortázar;1963;Novela;free
+43;Ficciones;Jorge Luis Borges;1944;Cuentos;free
+44;El túnel;Ernesto Sabato;1948;Novela;free
+45;La ciudad y los perros;Mario Vargas Llosa;1963;Novela;free
+46;Crónica de una muerte anunciada;Gabriel García Márquez;1981;Novela;free
+47;El amor en los tiempos del cólera;Gabriel García Márquez;1985;Novela;free
+48;La colmena;Camilo José Cela;1951;Novela;free
+49;La familia de Pascual Duarte;Camilo José Cela;1942;Novela;free
+50;Nada;Carmen Laforet;1945;Novela;free
+51;La Regenta;Leopoldo Alas Clarín;1885;Clásicos;free
+52;Fortunata y Jacinta;Benito Pérez Galdós;1887;Clásicos;free
+53;Lazarillo de Tormes;Anónimo;1554;Clásicos;free
+54;Bodas de sangre;Federico García Lorca;1933;Teatro;free
+55;La casa de Bernarda Alba;Federico García Lorca;1936;Teatro;free
+56;Romancero gitano;Federico García Lorca;1928;Poesía;free
+57;Platero y yo;Juan Ramón Jiménez;1914;Poesía;free
+58;Rimas y leyendas;Gustavo Adolfo Bécquer;1871;Poesía;free
+59;Veinte poemas de amor y una canción desesperada;Pablo Neruda;1924;Poesía;free
+60;Dune;Frank Herbert;1965;Ciencia ficción;free
+61;Fundación;Isaac Asimov;1951;Ciencia ficción;free
+62;Yo, robot;Isaac Asimov;1950;Ciencia ficción;free
+63;Neuromante;William Gibson;1984;Ciencia ficción;free
+64;La guerra de los mundos;H. G. Wells;1898;Ciencia ficción;free
+65;La máquina del tiempo;H. G. Wells;1895;Ciencia ficción;free
+66;Solaris;Stanisław Lem;1961;Ciencia ficción;free
+67;Ender el estratega;Orson Scott Card;1985;Ciencia ficción;free
+68;El problema de los tres cuerpos;Liu Cixin;2008;Ciencia ficción;free
+69;Los juegos del hambre;Suzanne Collins;2008;Juvenil;free
+70;El nombre del viento;Patrick Rothfuss;2007;Fantasía;free
+71;Juego de tronos;George R. R. Martin;1996;Fantasía;free
+72;El león, la bruja y el armario;C. S. Lewis;1950;Fantasía;free
+73;El imperio final;Brandon Sanderson;2006;Fantasía;free
+74;Un mago de Terramar;Ursula K. Le Guin;1968;Fantasía;free
+75;Matilda;Roald Dahl;1988;Infantil;free
+76;Charlie y la fábrica de chocolate;Roald Dahl;1964;Infantil;free
+77;Momo;Michael Ende;1973;Infantil;free
+78;La historia interminable;Michael Ende;1979;Infantil;free
+79;Pippi Calzaslargas;Astrid Lindgren;1945;Infantil;free
+80;Alicia en el país de las maravillas;Lewis Carroll;1865;Infantil;free
+81;Peter Pan;J. M. Barrie;1911;Infantil;free
+82;El Gran Gatsby;F. Scott Fitzgerald;1925;Novela;free
+83;Matar a un ruiseñor;Harper Lee;1960;Novela;free
+84;El guardián entre el centeno;J. D. Salinger;1951;Novela;free
+85;Las uvas de la ira;John Steinbeck;1939;Novela;free
+86;De ratones y hombres;John Steinbeck;1937;Novela;free
+87;El viejo y el mar;Ernest Hemingway;1952;Novela;free
+88;Por quién doblan las campanas;Ernest Hemingway;1940;Novela;free
+89;El extranjero;Albert Camus;1942;Novela;free
+90;La peste;Albert Camus;1947;Novela;free
+91;La metamorfosis;Franz Kafka;1915;Clásicos;free
+92;El proceso;Franz Kafka;1925;Clásicos;free
+93;Los miserables;Victor Hugo;1862;Clásicos;free
+94;El conde de Montecristo;Alexandre Dumas;1844;Aventuras;free
+95;Los tres mosqueteros;Alexandre Dumas;1844;Aventuras;free
+96;Estudio en escarlata;Arthur Conan Doyle;1887;Misterio;free
+97;Asesinato en el Orient Express;Agatha Christie;1934;Misterio;free
+98;Y no quedó ninguno;Agatha Christie;1939;Misterio;free
+99;El código Da Vinci;Dan Brown;2003;Misterio;free
